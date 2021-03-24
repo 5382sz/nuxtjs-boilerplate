@@ -1,4 +1,4 @@
-# sztoo.github.io
+# nuxtjs-boilerplate
 
 ## Build Setup
 
